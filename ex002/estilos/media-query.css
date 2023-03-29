@@ -10,7 +10,7 @@
 @media screen and (min-width: 1400px) {
 
 body {
-    background-color: #000000;
+    background-image: linear-gradient(to bottom, #000000, #0303037a, #1607e28e);
     color: #F6F6F6;
     height: 100vh;
     box-sizing: border-box;
